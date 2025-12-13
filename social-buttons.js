@@ -53,8 +53,8 @@ class SocialButtons extends HTMLElement {
       facebook: 'https://www.facebook.com/',
       youtube: 'https://www.youtube.com/',
       tiktok: 'https://www.tiktok.com/',
-      bilibili: 'https://www.bilibili.com/',
-      kuaishou: 'https://www.kuaishou.com/'
+      bilibili: 'https://b23.tv/9SoR6Rq/',
+      kuaishou: 'https://v.kuaishou.com/7a4nPUZ3/'
     };
   }
 
