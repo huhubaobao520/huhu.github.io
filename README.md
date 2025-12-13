@@ -1,1 +1,1 @@
-# huhu.github.io
+# huhu.com
